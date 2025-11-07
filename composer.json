@@ -3,7 +3,7 @@
     "description": "Mini gestion de stock PHP + PDO + PHPUnit",
     "autoload": {
         "psr-4": {
-            "Etud\\StockManager\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
