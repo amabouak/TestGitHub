@@ -22,7 +22,7 @@ Ce projet est une mini-application de gestion de stock développée en PHP utili
 
 1. Clonez le dépôt :
    ```
-   git@github.com:amabouak/Gestion-de-Stock-en-PHP-avec-PDO-et-PHPUnit.git
+   https://github.com/amabouak/Gestion-de-Stock-en-PHP-avec-PDO-et-PHPUnit.git
    cd stock-manager
    ```
 
